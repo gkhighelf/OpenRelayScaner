@@ -1,3 +1,8 @@
+/**
+ * Created by GKHighElf - gkhighelf@gmail.com
+ * in near 2000 year, for self education and use.
+**/
+
 create database statistics;
 
 DROP TABLE IF EXISTS `smtps`;

@@ -1,5 +1,10 @@
 #!/usr/local/bin/perl
 
+#/**
+# * Created by GKHighElf - gkhighelf@gmail.com
+# * in near 2000 year, for self education and use.
+#**/
+
 # ftp://ftp.arin.net/pub/stats/lacnic/delegated-lacnic-latest
 # ftp://ftp.arin.net/pub/stats/apnic/delegated-apnic-latest
 # ftp://ftp.arin.net/pub/stats/afrinic/delegated-afrinic-latest
